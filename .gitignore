@@ -1,0 +1,8 @@
+/.vs
+/packages
+/libraryApp/.vs
+/libraryApp/bin
+/libraryApp/obj
+/libraryApp/logs
+/LibraryApp.Test/obj
+/LibraryApp.Test/bin
